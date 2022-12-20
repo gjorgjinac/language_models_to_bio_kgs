@@ -1,0 +1,6 @@
+pipeline,relation,is correct
+chemdis,cause,0.5629139072847682
+chemdis,treat,0.8674698795180723
+foodchem,contains,0.7920043219881145
+foodis,cause,0.7638146167557932
+foodis,treat,0.6608187134502924
